@@ -1,4 +1,4 @@
-name: 'functionnal tests'
+name: 'functional tests'
 
 on:
   push:
